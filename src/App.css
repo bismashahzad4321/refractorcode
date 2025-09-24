@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  justify-content: center;
+}
+.mainDiv{
+ background-color: aliceblue;
+  padding: 80px;
+}
+.inputData{
+  padding: 20px;
+}
+.resetBtn{
+  padding: 20px;
+}
